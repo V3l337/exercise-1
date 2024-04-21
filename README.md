@@ -20,7 +20,7 @@
 
 Отправил изменения из ветки в удаленный реп. - `git push origin main`
 
-Ответ: <https://github.com/V3l337/exercise-1/commit/main>
+Ответ: <https://github.com/V3l337/exercise-1/commit/0a825c108e534117daed8fd7987cb166861c6f11?diff=unified&w=0>
 
 ## Задание 3
 Решение:
